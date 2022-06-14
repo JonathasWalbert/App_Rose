@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">App_Rose</string>
+    <string name="entrar">Entrar</string>
+    <string name="text_cadastro">Crie uma conta</string>
+    <string name="title_cadastro">Cadastre-se</string>
+    <string name="btn_cadastrar">Cadastrar</string>
+</resources>
