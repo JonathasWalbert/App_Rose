@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "297894038745",
+    "project_id": "approseburguer",
+    "storage_bucket": "approseburguer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297894038745:android:4dd14a294877039eb302c8",
+        "android_client_info": {
+          "package_name": "com.example.app_rose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297894038745-m571qol7gtv64gjl1jonqonsfl2qcbm2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpSvwwWb-NSOdUvmjz5RmqSt0zcJNwKdQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297894038745-m571qol7gtv64gjl1jonqonsfl2qcbm2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

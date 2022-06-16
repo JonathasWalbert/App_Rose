@@ -14,10 +14,10 @@
         android:theme="@style/Theme.App_Rose"
         tools:targetApi="31">
         <activity
-            android:name=".FormProfile"
+            android:name=".FormCadastrar"
             android:exported="false" />
         <activity
-            android:name=".FormCadastro"
+            android:name=".FormProfile"
             android:exported="false" />
         <activity
             android:name=".MainActivity"
